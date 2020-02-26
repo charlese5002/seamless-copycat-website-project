@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+h1 {
+    font-family: 'Raleway';
+    font-size: 55px;
+    font-weight: 400;
+    position: absolute;
+    left: 55%;
+    top: 48%;
+}
+
+
+input {
+    border: solid;
+    border-width: .5px;
+    position: absolute;
+    top: 70%;
+    left: 55%;
+    width: 425px;
+    height: 30px;
+    font-family: 'Raleway';
+    border-radius: 8px;
+    border-color: grey;
+}
+
+button {
+    border: none;
+    position: absolute;
+    top: 70%;
+    left: 82%;
+    font-weight:400;
+    height: 35px;
+    width: 150px;
+    color: white;
+    background-color: 	#2b8282;
+    font-family: 'Raleway';
+    border-radius: 8px;
+}
+button:hover{
+    background-color: #356669;
+}
+
+#burger-image {
+  
+    position: absolute;
+    top: 0;
+    left: 0;
+    height:847px;
+}
+
+#seamless-image {
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    top: 5%;
+    left: 5%;
+}
+
+#treat-yourself-image {
+    position: absolute;
+    bottom: 0;
+    left: 30%;
+    height: 200px;
+    width: 260px;
+}
+
+#perks-text {
+    font-family: 'Raleway';
+    font-size: 20px;
+    position: absolute;
+    top: 5%;
+    left: 70%;
+    color: #2b8282;
+}
+
+#sign-in-text {
+    font-family: 'Raleway';
+    font-size: 20px;
+    position: absolute;
+    top: 5%;
+    left: 85%;
+    color: #2b8282;
+}
+
+#sign-in-text:hover{
+    color: #356669;
+}
