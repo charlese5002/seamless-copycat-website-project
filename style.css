@@ -2,7 +2,7 @@
 
 h1 {
     font-family: 'Raleway';
-    font-size: 55px;
+    font-size: 62px;
     font-weight: 400;
     position: absolute;
     left: 55%;
@@ -16,10 +16,10 @@ input {
     position: absolute;
     top: 70%;
     left: 55%;
-    width: 425px;
-    height: 30px;
+    width: 477px;
+    height: 40px;
     font-family: 'Raleway';
-    border-radius: 8px;
+    border-radius: 5px;
     border-color: grey;
 }
 
@@ -29,12 +29,12 @@ button {
     top: 70%;
     left: 82%;
     font-weight:400;
-    height: 35px;
-    width: 150px;
+    height: 42px;
+    width: 169px;
     color: white;
     background-color: 	#2b8282;
     font-family: 'Raleway';
-    border-radius: 8px;
+    border-radius: 5px;
 }
 button:hover{
     background-color: #356669;
@@ -45,12 +45,12 @@ button:hover{
     position: absolute;
     top: 0;
     left: 0;
-    height:847px;
+    height:1007px;
 }
 
 #seamless-image {
     position: absolute;
-    width: 150px;
+    width: 188px;
     height: 100px;
     top: 5%;
     left: 5%;
@@ -59,7 +59,7 @@ button:hover{
 #treat-yourself-image {
     position: absolute;
     bottom: 0;
-    left: 30%;
+    left: 34%;
     height: 200px;
     width: 260px;
 }
@@ -69,7 +69,7 @@ button:hover{
     font-size: 20px;
     position: absolute;
     top: 5%;
-    left: 70%;
+    left: 78%;
     color: #2b8282;
 }
 
@@ -78,7 +78,7 @@ button:hover{
     font-size: 20px;
     position: absolute;
     top: 5%;
-    left: 85%;
+    left: 91%;
     color: #2b8282;
 }
 
