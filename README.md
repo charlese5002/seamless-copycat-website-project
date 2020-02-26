@@ -1,5 +1,5 @@
 # Seamless Copycat Project
-## Github Pages  
+<a href="https://charlese5002.github.io/seamless-copycat-website-project/">Github Pages </a>  
 --------------------------------------
 <a href="https://docs.google.com/document/d/1F-u9wICXMydDwrUa17qntkMYNX3IeVJH7-l4LOXSSLM/edit">Google Doc Plan </a> 
 --------------------------------------
