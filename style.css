@@ -2,7 +2,7 @@
 
 h1 {
     font-family: 'Raleway';
-    font-size: 62px;
+    font-size: 64px;
     font-weight: 400;
     position: absolute;
     left: 55%;
@@ -59,7 +59,7 @@ button:hover{
 #treat-yourself-image {
     position: absolute;
     bottom: 0;
-    left: 34%;
+    left: 33%;
     height: 200px;
     width: 260px;
 }
